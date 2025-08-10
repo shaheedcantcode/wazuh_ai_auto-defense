@@ -1,0 +1,16 @@
+{
+    "ALERTS_FILE": "/var/ossec/logs/alerts/alerts.json",
+    "DATASET_FILE": "/home/sbd/wazuh_ai_training_data.csv",
+    "INITIAL_DATASET_FILE": "/home/sbd/mitre_dataset.csv",
+    "FAILED_SSH_THRESHOLD": 5,
+    "CONFIDENCE_THRESHOLD": 80,
+    "BLOCK_DURATION_HOURS": 24,
+    "BLOCKED_IPS_FILE": "/home/sbd/blocked_ips.json",
+    "FAILED_SSH_FILE": "/home/sbd/failed_ssh.json",
+    "HUMAN_REVIEW_FILE": "/home/sbd/human_review.csv",
+    "INCIDENT_LOG_DIR": "/home/sbd/wazuh_ai_logs/",
+    "LOG_RETENTION_DAYS": 30,
+    "EMAIL_COOLDOWN": 300,
+    "MODEL_FILE": "/home/sbd/wazuh_ai_model.pkl",
+    "VECTORIZER_FILE": "/home/sbd/wazuh_ai_vectorizer.pkl"
+}

@@ -1,0 +1,14 @@
+[Unit]
+Description=Send Email Alert on Wazuh AI Crash
+After=network.target
+
+[Service]
+Type=oneshot
+User=sbd
+Group=sbd
+WorkingDirectory=/home/sbd
+ExecStart=/usr/bin/python3 /home/sbd/wazuh_ai_crash_alert.py
+EnvironmentFile=/home/sbd/.env           # optional – delete if you don’t need it
+
+[Install]
+WantedBy=multi-user.target

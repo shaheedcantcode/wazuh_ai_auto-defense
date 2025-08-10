@@ -1,0 +1,17 @@
+[Unit]
+Description=Wazuh AI Security Automation
+After=network.target
+OnFailure=wazuh_ai_failure_alert.service
+
+[Service]
+Type=simple
+User=sbd
+Group=sbd
+WorkingDirectory=/home/sbd
+ExecStart=/usr/bin/python3 /home/sbd/wazuh_ai.py
+EnvironmentFile=/home/sbd/.env           # optional – delete if you don’t need it
+Restart=on-failure
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target

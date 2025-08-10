@@ -1,0 +1,1237 @@
+description,severity
+Suspicious spearphishing email detected,High
+Detected activity: Suspicious spearphishing email detected,High
+Suspicious spearphishing email detected detected on host system.,High
+Suspicious spearphishing email detected was triggered on endpoint.,High
+Phishing email containing malicious link,High
+Detected activity: Phishing email containing malicious link,High
+Phishing email containing malicious link found during analysis.,High
+Suspicious behavior: Phishing email containing malicious link,High
+Phishing email containing malicious attachment,Critical
+Security event - Phishing email containing malicious attachment,Critical
+Detected activity: Phishing email containing malicious attachment,Critical
+Phishing email containing malicious attachment activity logged.,Critical
+Suspicious HTML attachment execution attempt,High
+Security event - Suspicious HTML attachment execution attempt,High
+Alert generated: Suspicious HTML attachment execution attempt,High
+System alert: Suspicious HTML attachment execution attempt,High
+Malicious email macro execution detected,Critical
+Malicious email macro execution detected detected on host system.,Critical
+Security event - Malicious email macro execution detected,Critical
+Detected activity: Malicious email macro execution detected,Critical
+Drive-by compromise attempt via malicious website,Critical
+Drive-by compromise attempt via malicious website activity logged.,Critical
+Drive-by compromise attempt via malicious website observed by monitoring service.,Critical
+Drive-by compromise attempt via malicious website found during analysis.,Critical
+User visited known malicious watering hole site,High
+User visited known malicious watering hole site was triggered on endpoint.,High
+User visited known malicious watering hole site detected on host system.,High
+System alert: User visited known malicious watering hole site,High
+Exploit attempt on public-facing application detected,Critical
+Exploit attempt on public-facing application detected found during analysis.,Critical
+Exploit attempt on public-facing application detected observed by monitoring service.,Critical
+Exploit attempt on public-facing application detected was triggered on endpoint.,Critical
+SQL injection attack against login page,High
+Security event - SQL injection attack against login page,High
+SQL injection attack against login page was triggered on endpoint.,High
+Detected activity: SQL injection attack against login page,High
+Command injection attempt via web form,Critical
+Command injection attempt via web form detected on host system.,Critical
+Detected activity: Command injection attempt via web form,Critical
+Suspicious behavior: Command injection attempt via web form,Critical
+Cross-site scripting attack attempt detected,Medium
+Suspicious behavior: Cross-site scripting attack attempt detected,Medium
+Cross-site scripting attack attempt detected activity logged.,Medium
+Cross-site scripting attack attempt detected observed by monitoring service.,Medium
+Path traversal attempt to sensitive directory,High
+Path traversal attempt to sensitive directory was triggered on endpoint.,High
+Alert generated: Path traversal attempt to sensitive directory,High
+Path traversal attempt to sensitive directory detected on host system.,High
+Brute force login attempt detected on SSH service,High
+Brute force login attempt detected on SSH service was triggered on endpoint.,High
+Brute force login attempt detected on SSH service observed by monitoring service.,High
+Alert generated: Brute force login attempt detected on SSH service,High
+Brute force login attempt detected on RDP service,Critical
+Brute force login attempt detected on RDP service detected on host system.,Critical
+Brute force login attempt detected on RDP service observed by monitoring service.,Critical
+Suspicious behavior: Brute force login attempt detected on RDP service,Critical
+Multiple failed login attempts from same IP,High
+Multiple failed login attempts from same IP detected on host system.,High
+Multiple failed login attempts from same IP was triggered on endpoint.,High
+Suspicious behavior: Multiple failed login attempts from same IP,High
+Suspicious login from unusual geolocation,High
+Suspicious login from unusual geolocation activity logged.,High
+Detected activity: Suspicious login from unusual geolocation,High
+Suspicious login from unusual geolocation detected on host system.,High
+Valid account credentials used from new device,High
+Alert generated: Valid account credentials used from new device,High
+Valid account credentials used from new device found during analysis.,High
+Valid account credentials used from new device was triggered on endpoint.,High
+Default account password login attempt,Medium
+Alert generated: Default account password login attempt,Medium
+Security event - Default account password login attempt,Medium
+Default account password login attempt detected on host system.,Medium
+Trusted relationship abused for access,High
+Trusted relationship abused for access observed by monitoring service.,High
+Trusted relationship abused for access activity logged.,High
+Alert generated: Trusted relationship abused for access,High
+Remote exploitation of exposed service detected,Critical
+Remote exploitation of exposed service detected found during analysis.,Critical
+Remote exploitation of exposed service detected was triggered on endpoint.,Critical
+System alert: Remote exploitation of exposed service detected,Critical
+Anonymous login attempt to administrative share,High
+Security event - Anonymous login attempt to administrative share,High
+Anonymous login attempt to administrative share was triggered on endpoint.,High
+Anonymous login attempt to administrative share detected on host system.,High
+Hardware keylogger device connected,High
+Hardware keylogger device connected observed by monitoring service.,High
+Security event - Hardware keylogger device connected,High
+Detected activity: Hardware keylogger device connected,High
+Unauthorized USB mass storage device mounted,Medium
+Suspicious behavior: Unauthorized USB mass storage device mounted,Medium
+Unauthorized USB mass storage device mounted detected on host system.,Medium
+Detected activity: Unauthorized USB mass storage device mounted,Medium
+User executed file from suspicious network share,High
+Security event - User executed file from suspicious network share,High
+User executed file from suspicious network share detected on host system.,High
+User executed file from suspicious network share found during analysis.,High
+Execution of macro-enabled Office document,High
+Alert generated: Execution of macro-enabled Office document,High
+Suspicious behavior: Execution of macro-enabled Office document,High
+Detected activity: Execution of macro-enabled Office document,High
+Execution of script from email attachment,High
+Alert generated: Execution of script from email attachment,High
+Execution of script from email attachment activity logged.,High
+Execution of script from email attachment observed by monitoring service.,High
+User opened file with known malicious hash,Critical
+User opened file with known malicious hash activity logged.,Critical
+User opened file with known malicious hash found during analysis.,Critical
+User opened file with known malicious hash detected on host system.,Critical
+Suspicious script execution by legitimate process,High
+Suspicious script execution by legitimate process observed by monitoring service.,High
+Detected activity: Suspicious script execution by legitimate process,High
+Suspicious script execution by legitimate process detected on host system.,High
+Malware payload downloaded and executed,Critical
+Security event - Malware payload downloaded and executed,Critical
+Malware payload downloaded and executed detected on host system.,Critical
+Malware payload downloaded and executed was triggered on endpoint.,Critical
+Command-line execution with obfuscated arguments,High
+Command-line execution with obfuscated arguments observed by monitoring service.,High
+Command-line execution with obfuscated arguments activity logged.,High
+Security event - Command-line execution with obfuscated arguments,High
+Scheduled task created and executed by user,High
+Scheduled task created and executed by user was triggered on endpoint.,High
+Security event - Scheduled task created and executed by user,High
+Detected activity: Scheduled task created and executed by user,High
+Service started from non-standard directory,High
+Detected activity: Service started from non-standard directory,High
+Security event - Service started from non-standard directory,High
+Suspicious behavior: Service started from non-standard directory,High
+Remote PowerShell execution from external host,High
+Remote PowerShell execution from external host found during analysis.,High
+Remote PowerShell execution from external host activity logged.,High
+Remote PowerShell execution from external host observed by monitoring service.,High
+Remote code execution via SMB detected,Critical
+Remote code execution via SMB detected observed by monitoring service.,Critical
+System alert: Remote code execution via SMB detected,Critical
+Remote code execution via SMB detected was triggered on endpoint.,Critical
+WMI process execution from unknown source,High
+Alert generated: WMI process execution from unknown source,High
+WMI process execution from unknown source was triggered on endpoint.,High
+WMI process execution from unknown source activity logged.,High
+Dynamic code execution using eval function,Medium
+System alert: Dynamic code execution using eval function,Medium
+Security event - Dynamic code execution using eval function,Medium
+Dynamic code execution using eval function activity logged.,Medium
+JavaScript executed from external source,Medium
+System alert: JavaScript executed from external source,Medium
+Alert generated: JavaScript executed from external source,Medium
+JavaScript executed from external source activity logged.,Medium
+PowerShell executed from internet download,High
+PowerShell executed from internet download observed by monitoring service.,High
+PowerShell executed from internet download was triggered on endpoint.,High
+System alert: PowerShell executed from internet download,High
+XSL script execution initiated by system process,Medium
+XSL script execution initiated by system process was triggered on endpoint.,Medium
+XSL script execution initiated by system process detected on host system.,Medium
+Security event - XSL script execution initiated by system process,Medium
+Malicious binary execution in temporary folder,High
+Malicious binary execution in temporary folder was triggered on endpoint.,High
+Security event - Malicious binary execution in temporary folder,High
+Malicious binary execution in temporary folder activity logged.,High
+Encoded PowerShell command execution,High
+Encoded PowerShell command execution activity logged.,High
+Suspicious behavior: Encoded PowerShell command execution,High
+Alert generated: Encoded PowerShell command execution,High
+Suspicious registry modification for startup,High
+System alert: Suspicious registry modification for startup,High
+Alert generated: Suspicious registry modification for startup,High
+Suspicious registry modification for startup detected on host system.,High
+Autorun registry key created by unknown process,High
+System alert: Autorun registry key created by unknown process,High
+Security event - Autorun registry key created by unknown process,High
+Alert generated: Autorun registry key created by unknown process,High
+Startup folder modification detected,Medium
+Detected activity: Startup folder modification detected,Medium
+Startup folder modification detected was triggered on endpoint.,Medium
+Suspicious behavior: Startup folder modification detected,Medium
+New scheduled task created by non-admin user,Medium
+New scheduled task created by non-admin user found during analysis.,Medium
+Security event - New scheduled task created by non-admin user,Medium
+System alert: New scheduled task created by non-admin user,Medium
+New service installed with suspicious binary,High
+New service installed with suspicious binary observed by monitoring service.,High
+New service installed with suspicious binary activity logged.,High
+New service installed with suspicious binary detected on host system.,High
+Web shell uploaded to public directory,Critical
+Web shell uploaded to public directory found during analysis.,Critical
+Web shell uploaded to public directory detected on host system.,Critical
+Detected activity: Web shell uploaded to public directory,Critical
+Malware persistence via DLL search order hijacking,High
+Malware persistence via DLL search order hijacking observed by monitoring service.,High
+Security event - Malware persistence via DLL search order hijacking,High
+Detected activity: Malware persistence via DLL search order hijacking,High
+Shell profile modified for persistence,Medium
+Alert generated: Shell profile modified for persistence,Medium
+System alert: Shell profile modified for persistence,Medium
+Suspicious behavior: Shell profile modified for persistence,Medium
+Login hook added to execute malicious payload,Medium
+System alert: Login hook added to execute malicious payload,Medium
+Suspicious behavior: Login hook added to execute malicious payload,Medium
+Login hook added to execute malicious payload activity logged.,Medium
+Browser extension installed from untrusted source,Medium
+Browser extension installed from untrusted source found during analysis.,Medium
+Browser extension installed from untrusted source activity logged.,Medium
+Alert generated: Browser extension installed from untrusted source,Medium
+Accessibility feature modified for persistence,High
+Suspicious behavior: Accessibility feature modified for persistence,High
+System alert: Accessibility feature modified for persistence,High
+Security event - Accessibility feature modified for persistence,High
+New administrative account created unexpectedly,High
+New administrative account created unexpectedly found during analysis.,High
+New administrative account created unexpectedly was triggered on endpoint.,High
+New administrative account created unexpectedly detected on host system.,High
+Persistence via systemd service creation,High
+Persistence via systemd service creation activity logged.,High
+Persistence via systemd service creation found during analysis.,High
+Security event - Persistence via systemd service creation,High
+Windows service failure action modified,High
+Windows service failure action modified was triggered on endpoint.,High
+Windows service failure action modified observed by monitoring service.,High
+Windows service failure action modified activity logged.,High
+Boot configuration modified by unknown process,Critical
+Boot configuration modified by unknown process detected on host system.,Critical
+System alert: Boot configuration modified by unknown process,Critical
+Security event - Boot configuration modified by unknown process,Critical
+Kernel module loaded from untrusted path,Critical
+Alert generated: Kernel module loaded from untrusted path,Critical
+Kernel module loaded from untrusted path observed by monitoring service.,Critical
+Security event - Kernel module loaded from untrusted path,Critical
+Suspicious plist file modification detected,Medium
+Security event - Suspicious plist file modification detected,Medium
+System alert: Suspicious plist file modification detected,Medium
+Suspicious plist file modification detected found during analysis.,Medium
+Cron job created with suspicious command,Medium
+Cron job created with suspicious command detected on host system.,Medium
+Cron job created with suspicious command found during analysis.,Medium
+Cron job created with suspicious command activity logged.,Medium
+Init script modified for persistence,Medium
+Alert generated: Init script modified for persistence,Medium
+Detected activity: Init script modified for persistence,Medium
+Init script modified for persistence detected on host system.,Medium
+Malware injected into legitimate binary for persistence,High
+System alert: Malware injected into legitimate binary for persistence,High
+Malware injected into legitimate binary for persistence was triggered on endpoint.,High
+Malware injected into legitimate binary for persistence detected on host system.,High
+Scheduled job created in cloud environment,High
+Scheduled job created in cloud environment detected on host system.,High
+Alert generated: Scheduled job created in cloud environment,High
+System alert: Scheduled job created in cloud environment,High
+Malicious Docker container deployed for persistence,High
+Alert generated: Malicious Docker container deployed for persistence,High
+Malicious Docker container deployed for persistence activity logged.,High
+Malicious Docker container deployed for persistence found during analysis.,High
+SSH authorized_keys file modified by unknown user,High
+Security event - SSH authorized_keys file modified by unknown user,High
+Alert generated: SSH authorized_keys file modified by unknown user,High
+SSH authorized_keys file modified by unknown user activity logged.,High
+Group Policy logon script modified for persistence,High
+Detected activity: Group Policy logon script modified for persistence,High
+Alert generated: Group Policy logon script modified for persistence,High
+Group Policy logon script modified for persistence found during analysis.,High
+New startup item created in user profile,Medium
+System alert: New startup item created in user profile,Medium
+New startup item created in user profile found during analysis.,Medium
+Suspicious behavior: New startup item created in user profile,Medium
+Firmware modification detected on system,Critical
+Detected activity: Firmware modification detected on system,Critical
+System alert: Firmware modification detected on system,Critical
+Firmware modification detected on system activity logged.,Critical
+Shortcut file target modified to malicious binary,Medium
+Security event - Shortcut file target modified to malicious binary,Medium
+Shortcut file target modified to malicious binary observed by monitoring service.,Medium
+Shortcut file target modified to malicious binary detected on host system.,Medium
+Outlook add-in installed from untrusted location,Medium
+Outlook add-in installed from untrusted location found during analysis.,Medium
+Security event - Outlook add-in installed from untrusted location,Medium
+Outlook add-in installed from untrusted location activity logged.,Medium
+Malicious driver installed on system,Critical
+Malicious driver installed on system was triggered on endpoint.,Critical
+System alert: Malicious driver installed on system,Critical
+Malicious driver installed on system found during analysis.,Critical
+Unauthorized device firmware update detected,Critical
+System alert: Unauthorized device firmware update detected,Critical
+Unauthorized device firmware update detected observed by monitoring service.,Critical
+Unauthorized device firmware update detected detected on host system.,Critical
+SIDHistory attribute modified unexpectedly,High
+SIDHistory attribute modified unexpectedly found during analysis.,High
+System alert: SIDHistory attribute modified unexpectedly,High
+Alert generated: SIDHistory attribute modified unexpectedly,High
+Malicious mobile application installed,High
+Malicious mobile application installed was triggered on endpoint.,High
+Malicious mobile application installed detected on host system.,High
+Alert generated: Malicious mobile application installed,High
+Cloud IAM role modified for persistence,High
+Detected activity: Cloud IAM role modified for persistence,High
+Cloud IAM role modified for persistence detected on host system.,High
+Cloud IAM role modified for persistence found during analysis.,High
+Malicious AWS Lambda function scheduled,High
+Malicious AWS Lambda function scheduled found during analysis.,High
+Malicious AWS Lambda function scheduled activity logged.,High
+Malicious AWS Lambda function scheduled was triggered on endpoint.,High
+New Azure Function scheduled with malicious payload,High
+New Azure Function scheduled with malicious payload detected on host system.,High
+Alert generated: New Azure Function scheduled with malicious payload,High
+System alert: New Azure Function scheduled with malicious payload,High
+Exploitation of sudo vulnerability for privilege escalation,Critical
+Security event - Exploitation of sudo vulnerability for privilege escalation,Critical
+Alert generated: Exploitation of sudo vulnerability for privilege escalation,Critical
+Suspicious behavior: Exploitation of sudo vulnerability for privilege escalation,Critical
+Kernel privilege escalation exploit detected,Critical
+Kernel privilege escalation exploit detected was triggered on endpoint.,Critical
+Kernel privilege escalation exploit detected found during analysis.,Critical
+System alert: Kernel privilege escalation exploit detected,Critical
+Privilege escalation via misconfigured service permissions,High
+Privilege escalation via misconfigured service permissions was triggered on endpoint.,High
+Detected activity: Privilege escalation via misconfigured service permissions,High
+Privilege escalation via misconfigured service permissions observed by monitoring service.,High
+Privilege escalation via DLL hijacking,High
+Detected activity: Privilege escalation via DLL hijacking,High
+System alert: Privilege escalation via DLL hijacking,High
+Privilege escalation via DLL hijacking found during analysis.,High
+User added to local administrators group,High
+User added to local administrators group found during analysis.,High
+User added to local administrators group activity logged.,High
+User added to local administrators group was triggered on endpoint.,High
+Privilege escalation via setuid binary abuse,High
+System alert: Privilege escalation via setuid binary abuse,High
+Privilege escalation via setuid binary abuse observed by monitoring service.,High
+Privilege escalation via setuid binary abuse was triggered on endpoint.,High
+Container breakout privilege escalation detected,Critical
+System alert: Container breakout privilege escalation detected,Critical
+Container breakout privilege escalation detected observed by monitoring service.,Critical
+Alert generated: Container breakout privilege escalation detected,Critical
+Token impersonation attempt detected,High
+Token impersonation attempt detected detected on host system.,High
+Token impersonation attempt detected activity logged.,High
+Token impersonation attempt detected observed by monitoring service.,High
+Privilege escalation via scheduled task abuse,High
+Privilege escalation via scheduled task abuse activity logged.,High
+System alert: Privilege escalation via scheduled task abuse,High
+Security event - Privilege escalation via scheduled task abuse,High
+Privilege escalation via service binary replacement,High
+Privilege escalation via service binary replacement detected on host system.,High
+Detected activity: Privilege escalation via service binary replacement,High
+Suspicious behavior: Privilege escalation via service binary replacement,High
+Privilege escalation via accessibility feature abuse,High
+Security event - Privilege escalation via accessibility feature abuse,High
+Alert generated: Privilege escalation via accessibility feature abuse,High
+Privilege escalation via accessibility feature abuse was triggered on endpoint.,High
+Driver vulnerability exploited for privilege escalation,Critical
+Suspicious behavior: Driver vulnerability exploited for privilege escalation,Critical
+Driver vulnerability exploited for privilege escalation activity logged.,Critical
+Driver vulnerability exploited for privilege escalation detected on host system.,Critical
+Privilege escalation via web shell privilege abuse,High
+System alert: Privilege escalation via web shell privilege abuse,High
+Privilege escalation via web shell privilege abuse observed by monitoring service.,High
+Security event - Privilege escalation via web shell privilege abuse,High
+Disabling of User Account Control detected,High
+Disabling of User Account Control detected detected on host system.,High
+Security event - Disabling of User Account Control detected,High
+System alert: Disabling of User Account Control detected,High
+Execution of payload with SYSTEM privileges,Critical
+Execution of payload with SYSTEM privileges was triggered on endpoint.,Critical
+Execution of payload with SYSTEM privileges observed by monitoring service.,Critical
+System alert: Execution of payload with SYSTEM privileges,Critical
+Defense evasion via timestomping of files,Medium
+Alert generated: Defense evasion via timestomping of files,Medium
+Defense evasion via timestomping of files detected on host system.,Medium
+Security event - Defense evasion via timestomping of files,Medium
+Obfuscation of PowerShell script detected,Medium
+Detected activity: Obfuscation of PowerShell script detected,Medium
+Obfuscation of PowerShell script detected was triggered on endpoint.,Medium
+Obfuscation of PowerShell script detected activity logged.,Medium
+Disabling of logging service,High
+Alert generated: Disabling of logging service,High
+Disabling of logging service observed by monitoring service.,High
+Detected activity: Disabling of logging service,High
+Security event logs cleared,High
+Alert generated: Security event logs cleared,High
+Security event logs cleared found during analysis.,High
+Detected activity: Security event logs cleared,High
+Uninstallation of antivirus software,Critical
+Detected activity: Uninstallation of antivirus software,Critical
+Uninstallation of antivirus software was triggered on endpoint.,Critical
+Alert generated: Uninstallation of antivirus software,Critical
+Disabling of endpoint detection agent,Critical
+System alert: Disabling of endpoint detection agent,Critical
+Disabling of endpoint detection agent detected on host system.,Critical
+Disabling of endpoint detection agent observed by monitoring service.,Critical
+Process injection into trusted process,Critical
+Suspicious behavior: Process injection into trusted process,Critical
+Process injection into trusted process detected on host system.,Critical
+Process injection into trusted process activity logged.,Critical
+Masquerading as legitimate system process,High
+Masquerading as legitimate system process activity logged.,High
+Masquerading as legitimate system process found during analysis.,High
+Masquerading as legitimate system process detected on host system.,High
+Binary padding in suspicious executable,Medium
+Detected activity: Binary padding in suspicious executable,Medium
+Binary padding in suspicious executable observed by monitoring service.,Medium
+Binary padding in suspicious executable activity logged.,Medium
+Signed binary proxy execution detected,High
+Signed binary proxy execution detected activity logged.,High
+Detected activity: Signed binary proxy execution detected,High
+System alert: Signed binary proxy execution detected,High
+Removal of file system artifacts for evasion,Medium
+Removal of file system artifacts for evasion observed by monitoring service.,Medium
+Alert generated: Removal of file system artifacts for evasion,Medium
+Removal of file system artifacts for evasion found during analysis.,Medium
+Suspicious compression of multiple log files,Medium
+Suspicious compression of multiple log files activity logged.,Medium
+Suspicious compression of multiple log files detected on host system.,Medium
+Suspicious compression of multiple log files observed by monitoring service.,Medium
+Defense evasion via encrypted payload delivery,High
+Suspicious behavior: Defense evasion via encrypted payload delivery,High
+Alert generated: Defense evasion via encrypted payload delivery,High
+System alert: Defense evasion via encrypted payload delivery,High
+Disabling of firewall rules,Critical
+Disabling of firewall rules detected on host system.,Critical
+System alert: Disabling of firewall rules,Critical
+Disabling of firewall rules found during analysis.,Critical
+Modification of security policy settings,High
+Modification of security policy settings observed by monitoring service.,High
+Modification of security policy settings detected on host system.,High
+Modification of security policy settings activity logged.,High
+Suspicious AMSI bypass technique detected,High
+Alert generated: Suspicious AMSI bypass technique detected,High
+Suspicious AMSI bypass technique detected found during analysis.,High
+Suspicious AMSI bypass technique detected observed by monitoring service.,High
+Use of living-off-the-land binary for evasion,Medium
+Use of living-off-the-land binary for evasion found during analysis.,Medium
+System alert: Use of living-off-the-land binary for evasion,Medium
+Use of living-off-the-land binary for evasion activity logged.,Medium
+Tampering with audit configuration detected,High
+Tampering with audit configuration detected found during analysis.,High
+Tampering with audit configuration detected was triggered on endpoint.,High
+System alert: Tampering with audit configuration detected,High
+Disabling of Windows Defender real-time protection,Critical
+Disabling of Windows Defender real-time protection was triggered on endpoint.,Critical
+Disabling of Windows Defender real-time protection activity logged.,Critical
+Disabling of Windows Defender real-time protection found during analysis.,Critical
+Suspicious disablement of SELinux enforcement,High
+Suspicious disablement of SELinux enforcement activity logged.,High
+System alert: Suspicious disablement of SELinux enforcement,High
+Alert generated: Suspicious disablement of SELinux enforcement,High
+Credential dumping from LSASS memory,Critical
+System alert: Credential dumping from LSASS memory,Critical
+Security event - Credential dumping from LSASS memory,Critical
+Credential dumping from LSASS memory detected on host system.,Critical
+Credential dumping using Mimikatz,Critical
+Credential dumping using Mimikatz observed by monitoring service.,Critical
+Credential dumping using Mimikatz detected on host system.,Critical
+Suspicious behavior: Credential dumping using Mimikatz,Critical
+NTDS.dit file access attempt,Critical
+NTDS.dit file access attempt was triggered on endpoint.,Critical
+NTDS.dit file access attempt found during analysis.,Critical
+NTDS.dit file access attempt detected on host system.,Critical
+Dumping of browser stored credentials,High
+Suspicious behavior: Dumping of browser stored credentials,High
+Alert generated: Dumping of browser stored credentials,High
+Dumping of browser stored credentials detected on host system.,High
+Access to keychain credentials detected,High
+Access to keychain credentials detected was triggered on endpoint.,High
+System alert: Access to keychain credentials detected,High
+Access to keychain credentials detected detected on host system.,High
+Dumping of SAM registry hive,Critical
+Alert generated: Dumping of SAM registry hive,Critical
+Dumping of SAM registry hive activity logged.,Critical
+Suspicious behavior: Dumping of SAM registry hive,Critical
+Cloud credential access via metadata service,High
+Cloud credential access via metadata service activity logged.,High
+Security event - Cloud credential access via metadata service,High
+Alert generated: Cloud credential access via metadata service,High
+Suspicious use of gsecdump tool,High
+Suspicious use of gsecdump tool found during analysis.,High
+Suspicious use of gsecdump tool observed by monitoring service.,High
+Suspicious behavior: Suspicious use of gsecdump tool,High
+Keylogging activity detected,High
+Keylogging activity detected activity logged.,High
+Keylogging activity detected detected on host system.,High
+Suspicious behavior: Keylogging activity detected,High
+Unusual Kerberos ticket request,High
+Alert generated: Unusual Kerberos ticket request,High
+Unusual Kerberos ticket request activity logged.,High
+Unusual Kerberos ticket request found during analysis.,High
+Pass-the-hash authentication attempt,Critical
+Suspicious behavior: Pass-the-hash authentication attempt,Critical
+System alert: Pass-the-hash authentication attempt,Critical
+Security event - Pass-the-hash authentication attempt,Critical
+Suspicious credential harvesting web form,High
+Suspicious credential harvesting web form was triggered on endpoint.,High
+Detected activity: Suspicious credential harvesting web form,High
+Suspicious behavior: Suspicious credential harvesting web form,High
+Credential access via phishing macro,High
+Credential access via phishing macro detected on host system.,High
+System alert: Credential access via phishing macro,High
+Suspicious behavior: Credential access via phishing macro,High
+Credential access via malicious Android app,High
+Security event - Credential access via malicious Android app,High
+System alert: Credential access via malicious Android app,High
+Alert generated: Credential access via malicious Android app,High
+Credential theft from password manager vault,Critical
+Detected activity: Credential theft from password manager vault,Critical
+System alert: Credential theft from password manager vault,Critical
+Credential theft from password manager vault activity logged.,Critical
+Credential dumping from LSASS via procdump,Critical
+Credential dumping from LSASS via procdump found during analysis.,Critical
+Credential dumping from LSASS via procdump observed by monitoring service.,Critical
+Detected activity: Credential dumping from LSASS via procdump,Critical
+Discovery of local user accounts,Medium
+Discovery of local user accounts detected on host system.,Medium
+Discovery of local user accounts was triggered on endpoint.,Medium
+Discovery of local user accounts found during analysis.,Medium
+Discovery of local network configuration,Medium
+Discovery of local network configuration was triggered on endpoint.,Medium
+Discovery of local network configuration observed by monitoring service.,Medium
+Detected activity: Discovery of local network configuration,Medium
+Discovery of installed applications,Medium
+Detected activity: Discovery of installed applications,Medium
+Discovery of installed applications observed by monitoring service.,Medium
+Discovery of installed applications was triggered on endpoint.,Medium
+Active Directory domain enumeration,High
+Active Directory domain enumeration observed by monitoring service.,High
+Active Directory domain enumeration found during analysis.,High
+System alert: Active Directory domain enumeration,High
+Network share enumeration,Medium
+Detected activity: Network share enumeration,Medium
+Security event - Network share enumeration,Medium
+Suspicious behavior: Network share enumeration,Medium
+Cloud asset inventory enumeration,Medium
+Cloud asset inventory enumeration found during analysis.,Medium
+Cloud asset inventory enumeration detected on host system.,Medium
+Alert generated: Cloud asset inventory enumeration,Medium
+Discovery of running processes,Medium
+Detected activity: Discovery of running processes,Medium
+System alert: Discovery of running processes,Medium
+Discovery of running processes observed by monitoring service.,Medium
+Discovery of open network ports,Medium
+Alert generated: Discovery of open network ports,Medium
+System alert: Discovery of open network ports,Medium
+Discovery of open network ports was triggered on endpoint.,Medium
+ARP scan activity detected,Medium
+ARP scan activity detected observed by monitoring service.,Medium
+ARP scan activity detected found during analysis.,Medium
+Suspicious behavior: ARP scan activity detected,Medium
+Enumeration of security group memberships,Medium
+Detected activity: Enumeration of security group memberships,Medium
+Enumeration of security group memberships found during analysis.,Medium
+Enumeration of security group memberships observed by monitoring service.,Medium
+Multiple DNS queries for internal hosts,Medium
+Multiple DNS queries for internal hosts detected on host system.,Medium
+Alert generated: Multiple DNS queries for internal hosts,Medium
+Suspicious behavior: Multiple DNS queries for internal hosts,Medium
+Wireless network scanning detected,Medium
+Alert generated: Wireless network scanning detected,Medium
+System alert: Wireless network scanning detected,Medium
+Suspicious behavior: Wireless network scanning detected,Medium
+Listing of scheduled tasks,Medium
+Alert generated: Listing of scheduled tasks,Medium
+Suspicious behavior: Listing of scheduled tasks,Medium
+Listing of scheduled tasks found during analysis.,Medium
+Cloud IAM policy enumeration,Medium
+Cloud IAM policy enumeration observed by monitoring service.,Medium
+Alert generated: Cloud IAM policy enumeration,Medium
+Cloud IAM policy enumeration was triggered on endpoint.,Medium
+Enumeration of removable media devices,Low
+Enumeration of removable media devices detected on host system.,Low
+Detected activity: Enumeration of removable media devices,Low
+Enumeration of removable media devices observed by monitoring service.,Low
+Suspicious directory listing in sensitive folder,Medium
+Security event - Suspicious directory listing in sensitive folder,Medium
+Suspicious directory listing in sensitive folder observed by monitoring service.,Medium
+Suspicious directory listing in sensitive folder activity logged.,Medium
+External IP discovery via public service,Low
+System alert: External IP discovery via public service,Low
+External IP discovery via public service was triggered on endpoint.,Low
+External IP discovery via public service activity logged.,Low
+Enumeration of email accounts via EWS,Medium
+System alert: Enumeration of email accounts via EWS,Medium
+Enumeration of email accounts via EWS observed by monitoring service.,Medium
+Security event - Enumeration of email accounts via EWS,Medium
+Cloud storage bucket listing detected,Medium
+Suspicious behavior: Cloud storage bucket listing detected,Medium
+Security event - Cloud storage bucket listing detected,Medium
+Cloud storage bucket listing detected detected on host system.,Medium
+Database schema enumeration detected,Medium
+Security event - Database schema enumeration detected,Medium
+Database schema enumeration detected was triggered on endpoint.,Medium
+Database schema enumeration detected observed by monitoring service.,Medium
+Discovery of backup server details,Medium
+Detected activity: Discovery of backup server details,Medium
+Alert generated: Discovery of backup server details,Medium
+Discovery of backup server details detected on host system.,Medium
+Network topology discovery activity,Medium
+System alert: Network topology discovery activity,Medium
+Network topology discovery activity observed by monitoring service.,Medium
+Network topology discovery activity activity logged.,Medium
+Software version enumeration for exploitation,Medium
+Suspicious behavior: Software version enumeration for exploitation,Medium
+Security event - Software version enumeration for exploitation,Medium
+Software version enumeration for exploitation activity logged.,Medium
+Obfuscated command detected in PowerShell process,Medium
+Alert generated: Obfuscated command detected in PowerShell process,Medium
+System alert: Obfuscated command detected in PowerShell process,Medium
+Security event - Obfuscated command detected in PowerShell process,Medium
+Suspicious execution of encoded script,High
+Security event - Suspicious execution of encoded script,High
+System alert: Suspicious execution of encoded script,High
+Suspicious behavior: Suspicious execution of encoded script,High
+Registry values modified to hide processes,High
+Registry values modified to hide processes was triggered on endpoint.,High
+Suspicious behavior: Registry values modified to hide processes,High
+Alert generated: Registry values modified to hide processes,High
+Windows service display name changed to evade detection,Medium
+Suspicious behavior: Windows service display name changed to evade detection,Medium
+Windows service display name changed to evade detection found during analysis.,Medium
+Windows service display name changed to evade detection was triggered on endpoint.,Medium
+Hidden file creation in system directories,Medium
+Suspicious behavior: Hidden file creation in system directories,Medium
+Hidden file creation in system directories was triggered on endpoint.,Medium
+Hidden file creation in system directories found during analysis.,Medium
+Modification of file attributes for evasion,Medium
+Detected activity: Modification of file attributes for evasion,Medium
+Modification of file attributes for evasion found during analysis.,Medium
+Suspicious behavior: Modification of file attributes for evasion,Medium
+Suspicious disablement of antivirus via registry,High
+Security event - Suspicious disablement of antivirus via registry,High
+Suspicious behavior: Suspicious disablement of antivirus via registry,High
+Suspicious disablement of antivirus via registry was triggered on endpoint.,High
+Tampering with scheduled security scans,Medium
+Tampering with scheduled security scans observed by monitoring service.,Medium
+Alert generated: Tampering with scheduled security scans,Medium
+Tampering with scheduled security scans activity logged.,Medium
+Binary renamed to masquerade as system tool,High
+Binary renamed to masquerade as system tool found during analysis.,High
+Binary renamed to masquerade as system tool detected on host system.,High
+Binary renamed to masquerade as system tool observed by monitoring service.,High
+Suspicious environment variable modification,Medium
+Security event - Suspicious environment variable modification,Medium
+Alert generated: Suspicious environment variable modification,Medium
+Suspicious environment variable modification was triggered on endpoint.,Medium
+Uninstall of security agent detected,Critical
+Detected activity: Uninstall of security agent detected,Critical
+Suspicious behavior: Uninstall of security agent detected,Critical
+System alert: Uninstall of security agent detected,Critical
+Firewall configuration modified by unknown process,Critical
+System alert: Firewall configuration modified by unknown process,Critical
+Firewall configuration modified by unknown process found during analysis.,Critical
+Firewall configuration modified by unknown process activity logged.,Critical
+System restore points deleted unexpectedly,High
+System restore points deleted unexpectedly observed by monitoring service.,High
+Alert generated: System restore points deleted unexpectedly,High
+System restore points deleted unexpectedly found during analysis.,High
+Suspicious modification of AppInit_DLLs registry key,High
+Security event - Suspicious modification of AppInit_DLLs registry key,High
+Alert generated: Suspicious modification of AppInit_DLLs registry key,High
+Detected activity: Suspicious modification of AppInit_DLLs registry key,High
+Code signing certificate abuse detected,High
+Suspicious behavior: Code signing certificate abuse detected,High
+Code signing certificate abuse detected observed by monitoring service.,High
+Code signing certificate abuse detected detected on host system.,High
+Cloud audit logging disabled,High
+Cloud audit logging disabled found during analysis.,High
+Security event - Cloud audit logging disabled,High
+Alert generated: Cloud audit logging disabled,High
+Suspicious PowerShell download cradle usage,High
+Suspicious PowerShell download cradle usage found during analysis.,High
+Alert generated: Suspicious PowerShell download cradle usage,High
+Suspicious PowerShell download cradle usage observed by monitoring service.,High
+Multiple failed attempts to disable EDR,Critical
+Security event - Multiple failed attempts to disable EDR,Critical
+Multiple failed attempts to disable EDR was triggered on endpoint.,Critical
+Multiple failed attempts to disable EDR observed by monitoring service.,Critical
+Unusual process spawning from legitimate binary,High
+Security event - Unusual process spawning from legitimate binary,High
+Unusual process spawning from legitimate binary detected on host system.,High
+Alert generated: Unusual process spawning from legitimate binary,High
+Suspicious abuse of mshta.exe,High
+Alert generated: Suspicious abuse of mshta.exe,High
+Suspicious behavior: Suspicious abuse of mshta.exe,High
+Suspicious abuse of mshta.exe was triggered on endpoint.,High
+Malicious VBScript execution attempt,Medium
+Malicious VBScript execution attempt was triggered on endpoint.,Medium
+Malicious VBScript execution attempt found during analysis.,Medium
+Security event - Malicious VBScript execution attempt,Medium
+Execution of script via wscript.exe from temp folder,High
+Execution of script via wscript.exe from temp folder observed by monitoring service.,High
+Execution of script via wscript.exe from temp folder detected on host system.,High
+Suspicious behavior: Execution of script via wscript.exe from temp folder,High
+Suspicious parent-child process relationship,High
+Suspicious parent-child process relationship found during analysis.,High
+Suspicious parent-child process relationship detected on host system.,High
+Suspicious parent-child process relationship activity logged.,High
+Suspicious binary execution from recycle bin,Medium
+Suspicious binary execution from recycle bin found during analysis.,Medium
+Suspicious binary execution from recycle bin activity logged.,Medium
+System alert: Suspicious binary execution from recycle bin,Medium
+Hidden scheduled task execution detected,High
+System alert: Hidden scheduled task execution detected,High
+Hidden scheduled task execution detected activity logged.,High
+Suspicious behavior: Hidden scheduled task execution detected,High
+Suspicious executable launched from USB drive,High
+Detected activity: Suspicious executable launched from USB drive,High
+Suspicious behavior: Suspicious executable launched from USB drive,High
+Suspicious executable launched from USB drive activity logged.,High
+Execution of unsigned driver detected,Critical
+Execution of unsigned driver detected activity logged.,Critical
+Execution of unsigned driver detected observed by monitoring service.,Critical
+Security event - Execution of unsigned driver detected,Critical
+Abnormal DLL loaded by critical system process,High
+Abnormal DLL loaded by critical system process activity logged.,High
+System alert: Abnormal DLL loaded by critical system process,High
+Alert generated: Abnormal DLL loaded by critical system process,High
+Suspicious injection into explorer.exe,High
+Suspicious injection into explorer.exe found during analysis.,High
+Suspicious behavior: Suspicious injection into explorer.exe,High
+Security event - Suspicious injection into explorer.exe,High
+Use of process hollowing technique detected,Critical
+Use of process hollowing technique detected was triggered on endpoint.,Critical
+System alert: Use of process hollowing technique detected,Critical
+Alert generated: Use of process hollowing technique detected,Critical
+Modification of authentication logs,High
+Modification of authentication logs was triggered on endpoint.,High
+Modification of authentication logs found during analysis.,High
+Modification of authentication logs detected on host system.,High
+Tampering with syslog configuration,High
+Tampering with syslog configuration observed by monitoring service.,High
+Tampering with syslog configuration detected on host system.,High
+System alert: Tampering with syslog configuration,High
+Suspicious modification of sudoers file,Critical
+Suspicious modification of sudoers file detected on host system.,Critical
+Suspicious modification of sudoers file activity logged.,Critical
+Suspicious modification of sudoers file observed by monitoring service.,Critical
+Rootkit behavior detected on Linux host,Critical
+Detected activity: Rootkit behavior detected on Linux host,Critical
+Rootkit behavior detected on Linux host was triggered on endpoint.,Critical
+Rootkit behavior detected on Linux host detected on host system.,Critical
+Privilege escalation attempt via kernel exploit,Critical
+Privilege escalation attempt via kernel exploit found during analysis.,Critical
+Suspicious behavior: Privilege escalation attempt via kernel exploit,Critical
+System alert: Privilege escalation attempt via kernel exploit,Critical
+Use of bypass tool to disable AppLocker,High
+Use of bypass tool to disable AppLocker was triggered on endpoint.,High
+Use of bypass tool to disable AppLocker detected on host system.,High
+Use of bypass tool to disable AppLocker activity logged.,High
+Obfuscation through string encoding in script,Medium
+Obfuscation through string encoding in script observed by monitoring service.,Medium
+System alert: Obfuscation through string encoding in script,Medium
+Detected activity: Obfuscation through string encoding in script,Medium
+Suspicious base64 decoding in script execution,High
+Suspicious base64 decoding in script execution detected on host system.,High
+Suspicious base64 decoding in script execution found during analysis.,High
+Suspicious behavior: Suspicious base64 decoding in script execution,High
+Credential theft attempt from Windows vault,High
+Credential theft attempt from Windows vault detected on host system.,High
+System alert: Credential theft attempt from Windows vault,High
+Credential theft attempt from Windows vault found during analysis.,High
+Credential theft attempt from Linux keyring,High
+Security event - Credential theft attempt from Linux keyring,High
+Alert generated: Credential theft attempt from Linux keyring,High
+System alert: Credential theft attempt from Linux keyring,High
+Brute force attack against Kerberos service,High
+System alert: Brute force attack against Kerberos service,High
+Brute force attack against Kerberos service detected on host system.,High
+Suspicious behavior: Brute force attack against Kerberos service,High
+Kerberos golden ticket creation detected,Critical
+Security event - Kerberos golden ticket creation detected,Critical
+Kerberos golden ticket creation detected found during analysis.,Critical
+Kerberos golden ticket creation detected activity logged.,Critical
+Kerberos silver ticket creation detected,Critical
+Alert generated: Kerberos silver ticket creation detected,Critical
+Kerberos silver ticket creation detected detected on host system.,Critical
+Security event - Kerberos silver ticket creation detected,Critical
+Credential harvesting from browser autofill,High
+Alert generated: Credential harvesting from browser autofill,High
+Credential harvesting from browser autofill found during analysis.,High
+Credential harvesting from browser autofill activity logged.,High
+Suspicious SAM database access attempt,Critical
+System alert: Suspicious SAM database access attempt,Critical
+Alert generated: Suspicious SAM database access attempt,Critical
+Suspicious SAM database access attempt activity logged.,Critical
+Credential theft via clipboard scraping,High
+Credential theft via clipboard scraping observed by monitoring service.,High
+Suspicious behavior: Credential theft via clipboard scraping,High
+Credential theft via clipboard scraping was triggered on endpoint.,High
+Password spraying attack detected,High
+Detected activity: Password spraying attack detected,High
+Password spraying attack detected observed by monitoring service.,High
+Alert generated: Password spraying attack detected,High
+Suspicious OAuth token theft attempt,High
+Suspicious OAuth token theft attempt activity logged.,High
+System alert: Suspicious OAuth token theft attempt,High
+Security event - Suspicious OAuth token theft attempt,High
+API key theft attempt in cloud environment,High
+System alert: API key theft attempt in cloud environment,High
+API key theft attempt in cloud environment found during analysis.,High
+Alert generated: API key theft attempt in cloud environment,High
+Unusual number of failed authentication events,Medium
+Suspicious behavior: Unusual number of failed authentication events,Medium
+Unusual number of failed authentication events activity logged.,Medium
+Unusual number of failed authentication events observed by monitoring service.,Medium
+Password hash extraction from memory,Critical
+Detected activity: Password hash extraction from memory,Critical
+Alert generated: Password hash extraction from memory,Critical
+System alert: Password hash extraction from memory,Critical
+Suspicious LDAPS bind request flood,High
+Suspicious LDAPS bind request flood observed by monitoring service.,High
+Suspicious LDAPS bind request flood activity logged.,High
+System alert: Suspicious LDAPS bind request flood,High
+Malicious prompt for MFA code,Critical
+Malicious prompt for MFA code detected on host system.,Critical
+Malicious prompt for MFA code found during analysis.,Critical
+Security event - Malicious prompt for MFA code,Critical
+Suspicious directory traversal for sensitive files,High
+Suspicious directory traversal for sensitive files found during analysis.,High
+Suspicious behavior: Suspicious directory traversal for sensitive files,High
+System alert: Suspicious directory traversal for sensitive files,High
+System information discovery via systeminfo command,Medium
+Alert generated: System information discovery via systeminfo command,Medium
+System information discovery via systeminfo command detected on host system.,Medium
+System information discovery via systeminfo command observed by monitoring service.,Medium
+OS version discovery in PowerShell script,Medium
+System alert: OS version discovery in PowerShell script,Medium
+Security event - OS version discovery in PowerShell script,Medium
+Suspicious behavior: OS version discovery in PowerShell script,Medium
+Listing of active network interfaces,Medium
+Listing of active network interfaces activity logged.,Medium
+Listing of active network interfaces observed by monitoring service.,Medium
+Listing of active network interfaces found during analysis.,Medium
+Suspicious execution of netstat with output redirect,Medium
+Suspicious behavior: Suspicious execution of netstat with output redirect,Medium
+Detected activity: Suspicious execution of netstat with output redirect,Medium
+Alert generated: Suspicious execution of netstat with output redirect,Medium
+Windows domain trust enumeration detected,High
+Security event - Windows domain trust enumeration detected,High
+Detected activity: Windows domain trust enumeration detected,High
+System alert: Windows domain trust enumeration detected,High
+Suspicious LDAP query for user attributes,Medium
+System alert: Suspicious LDAP query for user attributes,Medium
+Alert generated: Suspicious LDAP query for user attributes,Medium
+Suspicious LDAP query for user attributes found during analysis.,Medium
+MAC address enumeration of network adapters,Low
+System alert: MAC address enumeration of network adapters,Low
+MAC address enumeration of network adapters activity logged.,Low
+MAC address enumeration of network adapters found during analysis.,Low
+Suspicious SMB share enumeration activity,Medium
+Suspicious SMB share enumeration activity activity logged.,Medium
+Alert generated: Suspicious SMB share enumeration activity,Medium
+Suspicious SMB share enumeration activity was triggered on endpoint.,Medium
+Unusual ICMP ping sweep,Medium
+Unusual ICMP ping sweep observed by monitoring service.,Medium
+Unusual ICMP ping sweep was triggered on endpoint.,Medium
+Security event - Unusual ICMP ping sweep,Medium
+Cloud storage object metadata enumeration,Medium
+Cloud storage object metadata enumeration observed by monitoring service.,Medium
+Detected activity: Cloud storage object metadata enumeration,Medium
+Cloud storage object metadata enumeration was triggered on endpoint.,Medium
+Suspicious ARP broadcast flood,Medium
+Suspicious ARP broadcast flood was triggered on endpoint.,Medium
+Detected activity: Suspicious ARP broadcast flood,Medium
+Suspicious behavior: Suspicious ARP broadcast flood,Medium
+Network connection discovery via net command,Medium
+Network connection discovery via net command detected on host system.,Medium
+Network connection discovery via net command found during analysis.,Medium
+Security event - Network connection discovery via net command,Medium
+Database table enumeration detected,Medium
+Database table enumeration detected activity logged.,Medium
+Database table enumeration detected was triggered on endpoint.,Medium
+Alert generated: Database table enumeration detected,Medium
+Application window enumeration via API calls,Low
+System alert: Application window enumeration via API calls,Low
+Application window enumeration via API calls detected on host system.,Low
+Security event - Application window enumeration via API calls,Low
+Security product process enumeration,Medium
+Suspicious behavior: Security product process enumeration,Medium
+System alert: Security product process enumeration,Medium
+Alert generated: Security product process enumeration,Medium
+Suspicious PowerShell AD module usage,High
+Suspicious PowerShell AD module usage activity logged.,High
+Suspicious PowerShell AD module usage found during analysis.,High
+Security event - Suspicious PowerShell AD module usage,High
+Port scanning from internal host,Medium
+Security event - Port scanning from internal host,Medium
+Suspicious behavior: Port scanning from internal host,Medium
+Detected activity: Port scanning from internal host,Medium
+Enumerating cloud IAM roles,Medium
+Enumerating cloud IAM roles detected on host system.,Medium
+Detected activity: Enumerating cloud IAM roles,Medium
+Enumerating cloud IAM roles activity logged.,Medium
+Suspicious use of system profiler command,Low
+Detected activity: Suspicious use of system profiler command,Low
+Suspicious use of system profiler command found during analysis.,Low
+Suspicious use of system profiler command detected on host system.,Low
+Unusual read of /proc files for process list,Medium
+Unusual read of /proc files for process list was triggered on endpoint.,Medium
+System alert: Unusual read of /proc files for process list,Medium
+Unusual read of /proc files for process list observed by monitoring service.,Medium
+Enumeration of running containers,Medium
+Security event - Enumeration of running containers,Medium
+System alert: Enumeration of running containers,Medium
+Enumeration of running containers detected on host system.,Medium
+Unusual number of directory listing commands,Medium
+System alert: Unusual number of directory listing commands,Medium
+Unusual number of directory listing commands activity logged.,Medium
+Unusual number of directory listing commands observed by monitoring service.,Medium
+Cloud service region inventory enumeration,Medium
+Security event - Cloud service region inventory enumeration,Medium
+Detected activity: Cloud service region inventory enumeration,Medium
+System alert: Cloud service region inventory enumeration,Medium
+Remote desktop connection from unauthorized IP,Critical
+Alert generated: Remote desktop connection from unauthorized IP,Critical
+Remote desktop connection from unauthorized IP found during analysis.,Critical
+Detected activity: Remote desktop connection from unauthorized IP,Critical
+Pass-the-ticket lateral movement attempt,Critical
+Alert generated: Pass-the-ticket lateral movement attempt,Critical
+Pass-the-ticket lateral movement attempt was triggered on endpoint.,Critical
+Pass-the-ticket lateral movement attempt activity logged.,Critical
+SMB lateral movement using stolen credentials,High
+Security event - SMB lateral movement using stolen credentials,High
+SMB lateral movement using stolen credentials detected on host system.,High
+Suspicious behavior: SMB lateral movement using stolen credentials,High
+Remote PowerShell session from unknown host,High
+Remote PowerShell session from unknown host activity logged.,High
+Remote PowerShell session from unknown host found during analysis.,High
+Remote PowerShell session from unknown host was triggered on endpoint.,High
+Remote service creation from external source,High
+Remote service creation from external source found during analysis.,High
+Security event - Remote service creation from external source,High
+System alert: Remote service creation from external source,High
+PsExec lateral movement attempt detected,High
+Security event - PsExec lateral movement attempt detected,High
+PsExec lateral movement attempt detected activity logged.,High
+Detected activity: PsExec lateral movement attempt detected,High
+DCOM abuse for remote execution,High
+Security event - DCOM abuse for remote execution,High
+DCOM abuse for remote execution was triggered on endpoint.,High
+Suspicious behavior: DCOM abuse for remote execution,High
+Windows admin share access from suspicious IP,High
+Windows admin share access from suspicious IP observed by monitoring service.,High
+Alert generated: Windows admin share access from suspicious IP,High
+Windows admin share access from suspicious IP was triggered on endpoint.,High
+Malicious scheduled task pushed remotely,High
+Suspicious behavior: Malicious scheduled task pushed remotely,High
+Malicious scheduled task pushed remotely found during analysis.,High
+Alert generated: Malicious scheduled task pushed remotely,High
+Remote WMI execution from external source,High
+System alert: Remote WMI execution from external source,High
+Detected activity: Remote WMI execution from external source,High
+Suspicious behavior: Remote WMI execution from external source,High
+Remote code execution via WinRM service,High
+Remote code execution via WinRM service detected on host system.,High
+Detected activity: Remote code execution via WinRM service,High
+Remote code execution via WinRM service activity logged.,High
+Lateral movement using cloud console API calls,High
+Lateral movement using cloud console API calls found during analysis.,High
+Lateral movement using cloud console API calls detected on host system.,High
+Suspicious behavior: Lateral movement using cloud console API calls,High
+SSH command execution from untrusted IP,High
+System alert: SSH command execution from untrusted IP,High
+SSH command execution from untrusted IP activity logged.,High
+SSH command execution from untrusted IP observed by monitoring service.,High
+Suspicious VPN lateral movement activity,High
+Suspicious VPN lateral movement activity was triggered on endpoint.,High
+Suspicious VPN lateral movement activity detected on host system.,High
+System alert: Suspicious VPN lateral movement activity,High
+Unusual Kerberos ticket delegation detected,High
+Unusual Kerberos ticket delegation detected was triggered on endpoint.,High
+Alert generated: Unusual Kerberos ticket delegation detected,High
+Security event - Unusual Kerberos ticket delegation detected,High
+Remote registry modification attempt,High
+Remote registry modification attempt was triggered on endpoint.,High
+Suspicious behavior: Remote registry modification attempt,High
+Alert generated: Remote registry modification attempt,High
+Suspicious clipboard data collection,Medium
+Suspicious behavior: Suspicious clipboard data collection,Medium
+Suspicious clipboard data collection was triggered on endpoint.,Medium
+Suspicious clipboard data collection observed by monitoring service.,Medium
+Screen capture process started by unknown app,High
+Screen capture process started by unknown app observed by monitoring service.,High
+Alert generated: Screen capture process started by unknown app,High
+Screen capture process started by unknown app found during analysis.,High
+Keylogger process initiated in user session,High
+Security event - Keylogger process initiated in user session,High
+Keylogger process initiated in user session observed by monitoring service.,High
+Keylogger process initiated in user session activity logged.,High
+Audio capture from system microphone,High
+System alert: Audio capture from system microphone,High
+Detected activity: Audio capture from system microphone,High
+Security event - Audio capture from system microphone,High
+Sensitive file staged in temporary directory,High
+Security event - Sensitive file staged in temporary directory,High
+Detected activity: Sensitive file staged in temporary directory,High
+Sensitive file staged in temporary directory detected on host system.,High
+Large archive file created in sensitive folder,High
+System alert: Large archive file created in sensitive folder,High
+Large archive file created in sensitive folder activity logged.,High
+Detected activity: Large archive file created in sensitive folder,High
+Cloud storage upload of large file detected,Critical
+Security event - Cloud storage upload of large file detected,Critical
+Cloud storage upload of large file detected observed by monitoring service.,Critical
+Cloud storage upload of large file detected found during analysis.,Critical
+RAR compression of sensitive data detected,High
+RAR compression of sensitive data detected detected on host system.,High
+RAR compression of sensitive data detected activity logged.,High
+Suspicious behavior: RAR compression of sensitive data detected,High
+Document scanner output saved to external share,Medium
+Security event - Document scanner output saved to external share,Medium
+Suspicious behavior: Document scanner output saved to external share,Medium
+Document scanner output saved to external share was triggered on endpoint.,Medium
+Database dump saved to removable media,Critical
+Security event - Database dump saved to removable media,Critical
+Suspicious behavior: Database dump saved to removable media,Critical
+System alert: Database dump saved to removable media,Critical
+Collection of security logs from system,Medium
+Collection of security logs from system found during analysis.,Medium
+Collection of security logs from system observed by monitoring service.,Medium
+Suspicious behavior: Collection of security logs from system,Medium
+Browser cookies collected from profile,High
+Detected activity: Browser cookies collected from profile,High
+Browser cookies collected from profile was triggered on endpoint.,High
+Browser cookies collected from profile observed by monitoring service.,High
+Data staging in hidden directory,High
+Data staging in hidden directory activity logged.,High
+Suspicious behavior: Data staging in hidden directory,High
+Data staging in hidden directory found during analysis.,High
+Unusual database query returning massive dataset,High
+Unusual database query returning massive dataset detected on host system.,High
+Unusual database query returning massive dataset was triggered on endpoint.,High
+Suspicious behavior: Unusual database query returning massive dataset,High
+Cleartext credentials found in file,High
+Alert generated: Cleartext credentials found in file,High
+Cleartext credentials found in file found during analysis.,High
+Cleartext credentials found in file detected on host system.,High
+Unencrypted data sent over HTTP,Medium
+Unencrypted data sent over HTTP found during analysis.,Medium
+Detected activity: Unencrypted data sent over HTTP,Medium
+Alert generated: Unencrypted data sent over HTTP,Medium
+Exfiltration of files over HTTP POST,Critical
+System alert: Exfiltration of files over HTTP POST,Critical
+Exfiltration of files over HTTP POST detected on host system.,Critical
+Security event - Exfiltration of files over HTTP POST,Critical
+Exfiltration over DNS detected,Critical
+Exfiltration over DNS detected found during analysis.,Critical
+Alert generated: Exfiltration over DNS detected,Critical
+Exfiltration over DNS detected was triggered on endpoint.,Critical
+Exfiltration over HTTPS to unknown domain,Critical
+System alert: Exfiltration over HTTPS to unknown domain,Critical
+Exfiltration over HTTPS to unknown domain found during analysis.,Critical
+Exfiltration over HTTPS to unknown domain detected on host system.,Critical
+Exfiltration over SFTP to untrusted host,Critical
+Detected activity: Exfiltration over SFTP to untrusted host,Critical
+Exfiltration over SFTP to untrusted host detected on host system.,Critical
+Exfiltration over SFTP to untrusted host activity logged.,Critical
+Exfiltration over SMTP detected,Critical
+Exfiltration over SMTP detected observed by monitoring service.,Critical
+Suspicious behavior: Exfiltration over SMTP detected,Critical
+Security event - Exfiltration over SMTP detected,Critical
+Exfiltration over FTP to external IP,High
+System alert: Exfiltration over FTP to external IP,High
+Detected activity: Exfiltration over FTP to external IP,High
+Alert generated: Exfiltration over FTP to external IP,High
+Exfiltration to cloud storage provider,Critical
+Exfiltration to cloud storage provider was triggered on endpoint.,Critical
+Exfiltration to cloud storage provider found during analysis.,Critical
+Security event - Exfiltration to cloud storage provider,Critical
+Unusual data transfer to external IP,Critical
+Unusual data transfer to external IP detected on host system.,Critical
+Suspicious behavior: Unusual data transfer to external IP,Critical
+Security event - Unusual data transfer to external IP,Critical
+Steganographic data exfiltration detected,High
+Steganographic data exfiltration detected activity logged.,High
+Detected activity: Steganographic data exfiltration detected,High
+Alert generated: Steganographic data exfiltration detected,High
+TOR network used for data exfiltration,Critical
+Security event - TOR network used for data exfiltration,Critical
+TOR network used for data exfiltration was triggered on endpoint.,Critical
+Alert generated: TOR network used for data exfiltration,Critical
+Command and control over HTTP detected,Critical
+Detected activity: Command and control over HTTP detected,Critical
+Command and control over HTTP detected was triggered on endpoint.,Critical
+Command and control over HTTP detected found during analysis.,Critical
+Command and control over HTTPS detected,Critical
+Command and control over HTTPS detected activity logged.,Critical
+Suspicious behavior: Command and control over HTTPS detected,Critical
+System alert: Command and control over HTTPS detected,Critical
+Command and control over DNS detected,Critical
+Suspicious behavior: Command and control over DNS detected,Critical
+Command and control over DNS detected found during analysis.,Critical
+Alert generated: Command and control over DNS detected,Critical
+Command and control over ICMP detected,Critical
+Command and control over ICMP detected found during analysis.,Critical
+Command and control over ICMP detected activity logged.,Critical
+Alert generated: Command and control over ICMP detected,Critical
+Command and control over WebSocket detected,Critical
+Command and control over WebSocket detected was triggered on endpoint.,Critical
+Detected activity: Command and control over WebSocket detected,Critical
+System alert: Command and control over WebSocket detected,Critical
+C2 traffic via social media platform,High
+C2 traffic via social media platform found during analysis.,High
+C2 traffic via social media platform observed by monitoring service.,High
+C2 traffic via social media platform detected on host system.,High
+Custom encrypted protocol for C2 detected,Critical
+Custom encrypted protocol for C2 detected detected on host system.,Critical
+Custom encrypted protocol for C2 detected was triggered on endpoint.,Critical
+Alert generated: Custom encrypted protocol for C2 detected,Critical
+Beaconing to known C2 infrastructure,Critical
+System alert: Beaconing to known C2 infrastructure,Critical
+Beaconing to known C2 infrastructure was triggered on endpoint.,Critical
+Suspicious behavior: Beaconing to known C2 infrastructure,Critical
+Dynamic DNS used for C2 domain,High
+Detected activity: Dynamic DNS used for C2 domain,High
+Dynamic DNS used for C2 domain activity logged.,High
+Dynamic DNS used for C2 domain observed by monitoring service.,High
+Fast-flux DNS detected for C2,High
+Detected activity: Fast-flux DNS detected for C2,High
+Fast-flux DNS detected for C2 was triggered on endpoint.,High
+Alert generated: Fast-flux DNS detected for C2,High
+Malware using cloud service for C2,High
+System alert: Malware using cloud service for C2,High
+Malware using cloud service for C2 was triggered on endpoint.,High
+Malware using cloud service for C2 observed by monitoring service.,High
+Malware using email service for C2,High
+Malware using email service for C2 observed by monitoring service.,High
+Malware using email service for C2 found during analysis.,High
+Malware using email service for C2 was triggered on endpoint.,High
+C2 traffic via pastebin-like service,Medium
+Suspicious behavior: C2 traffic via pastebin-like service,Medium
+C2 traffic via pastebin-like service was triggered on endpoint.,Medium
+Detected activity: C2 traffic via pastebin-like service,Medium
+Ransomware encrypting large number of files,Critical
+Security event - Ransomware encrypting large number of files,Critical
+System alert: Ransomware encrypting large number of files,Critical
+Ransomware encrypting large number of files found during analysis.,Critical
+Master Boot Record overwrite detected,Critical
+System alert: Master Boot Record overwrite detected,Critical
+Master Boot Record overwrite detected activity logged.,Critical
+Suspicious behavior: Master Boot Record overwrite detected,Critical
+Disk partition wipe attempt detected,Critical
+Disk partition wipe attempt detected was triggered on endpoint.,Critical
+Disk partition wipe attempt detected detected on host system.,Critical
+Detected activity: Disk partition wipe attempt detected,Critical
+Firmware overwrite attempt detected,Critical
+Firmware overwrite attempt detected found during analysis.,Critical
+Firmware overwrite attempt detected was triggered on endpoint.,Critical
+Detected activity: Firmware overwrite attempt detected,Critical
+File deletion in critical system paths,Critical
+File deletion in critical system paths activity logged.,Critical
+File deletion in critical system paths detected on host system.,Critical
+System alert: File deletion in critical system paths,Critical
+Database record corruption detected,Critical
+Database record corruption detected activity logged.,Critical
+Database record corruption detected detected on host system.,Critical
+System alert: Database record corruption detected,Critical
+System recovery mechanism disabled,Critical
+Suspicious behavior: System recovery mechanism disabled,Critical
+Security event - System recovery mechanism disabled,Critical
+System alert: System recovery mechanism disabled,Critical
+Website defacement detected,High
+Suspicious behavior: Website defacement detected,High
+Website defacement detected was triggered on endpoint.,High
+Website defacement detected detected on host system.,High
+Critical service stopped unexpectedly,High
+Security event - Critical service stopped unexpectedly,High
+System alert: Critical service stopped unexpectedly,High
+Critical service stopped unexpectedly found during analysis.,High
+Backup service disabled,High
+Security event - Backup service disabled,High
+Backup service disabled was triggered on endpoint.,High
+Suspicious behavior: Backup service disabled,High
+Industrial control system disruption,Critical
+Industrial control system disruption activity logged.,Critical
+System alert: Industrial control system disruption,Critical
+Industrial control system disruption found during analysis.,Critical
+Safety system shutdown detected,Critical
+Alert generated: Safety system shutdown detected,Critical
+Detected activity: Safety system shutdown detected,Critical
+System alert: Safety system shutdown detected,Critical
+Denial of service via resource exhaustion,High
+Denial of service via resource exhaustion observed by monitoring service.,High
+Detected activity: Denial of service via resource exhaustion,High
+Suspicious behavior: Denial of service via resource exhaustion,High
+Application crash from malformed request,Medium
+Application crash from malformed request found during analysis.,Medium
+Application crash from malformed request was triggered on endpoint.,Medium
+Application crash from malformed request activity logged.,Medium
+Network communications disabled unexpectedly,High
+Detected activity: Network communications disabled unexpectedly,High
+Network communications disabled unexpectedly observed by monitoring service.,High
+Network communications disabled unexpectedly detected on host system.,High
+Ransom note file created in user directories,Critical
+Ransom note file created in user directories was triggered on endpoint.,Critical
+Ransom note file created in user directories observed by monitoring service.,Critical
+System alert: Ransom note file created in user directories,Critical
+SCADA system data manipulation detected,Critical
+Security event - SCADA system data manipulation detected,Critical
+SCADA system data manipulation detected detected on host system.,Critical
+Alert generated: SCADA system data manipulation detected,Critical
+Fraudulent transaction in financial system,Critical
+Fraudulent transaction in financial system found during analysis.,Critical
+Fraudulent transaction in financial system was triggered on endpoint.,Critical
+Fraudulent transaction in financial system activity logged.,Critical
+Tampering with system event logs,High
+Tampering with system event logs was triggered on endpoint.,High
+Alert generated: Tampering with system event logs,High
+Tampering with system event logs activity logged.,High
+System clock manipulated,High
+Suspicious behavior: System clock manipulated,High
+System clock manipulated was triggered on endpoint.,High
+System clock manipulated observed by monitoring service.,High
+Multiple user accounts locked simultaneously,High
+Multiple user accounts locked simultaneously detected on host system.,High
+System alert: Multiple user accounts locked simultaneously,High
+Detected activity: Multiple user accounts locked simultaneously,High
+Database encrypted without key escrow,Critical
+Database encrypted without key escrow found during analysis.,Critical
+Detected activity: Database encrypted without key escrow,Critical
+Database encrypted without key escrow detected on host system.,Critical
+Mass deletion of user home directories,Critical
+Detected activity: Mass deletion of user home directories,Critical
+Mass deletion of user home directories was triggered on endpoint.,Critical
+Mass deletion of user home directories detected on host system.,Critical
+Data destruction on cloud storage bucket,Critical
+Data destruction on cloud storage bucket observed by monitoring service.,Critical
+System alert: Data destruction on cloud storage bucket,Critical
+Detected activity: Data destruction on cloud storage bucket,Critical
+Critical configuration files overwritten,Critical
+Detected activity: Critical configuration files overwritten,Critical
+System alert: Critical configuration files overwritten,Critical
+Critical configuration files overwritten was triggered on endpoint.,Critical
+Sabotage of production server detected,Critical
+Alert generated: Sabotage of production server detected,Critical
+Sabotage of production server detected observed by monitoring service.,Critical
+Sabotage of production server detected detected on host system.,Critical
+Malware overwriting executable binaries,Critical
+Malware overwriting executable binaries activity logged.,Critical
+Malware overwriting executable binaries observed by monitoring service.,Critical
+Malware overwriting executable binaries was triggered on endpoint.,Critical
